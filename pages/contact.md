@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: pages/help
+title: "Contact Us"
+permalink: pages/contact
 
 There are a ton of helpful tips here!
 
