@@ -1,3 +1,5 @@
-# admullen93.github.io
-A repo for testing GitHub Pages functionality
-[Click here to get very useful help!](pages/help.md)
+# VA Slack Enterprise Handbook
+
+The following resources will help you get started with Slack Enterprise at the VA.
+
+[For questions, contact](pages/help.md)
