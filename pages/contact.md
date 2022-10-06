@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Contact Us"
 permalink: pages/contact
+---
 
 There are a ton of helpful tips here!
 
