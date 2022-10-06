@@ -3,10 +3,8 @@ title: "Contact Us"
 permalink: pages/contact
 ---
 
-There are a ton of helpful tips here!
+If you have questions, concerns, or comments related to VA Enterprise Slack, you may contact us via the following resources.
 
-Wow and so many helpful resources!
+To submit a DOTS ticket, visit the [DOTS Help Desk](https://vajira.max.gov/servicedesk/customer/portal/1/group/3).
 
-[Click here to return to the home page.](../)
-
-[OR Click here to return to the home page.](https://admullen93.github.io)
+Visit [the Exceptions page](exceptions) to request to be added to the email exception list.
