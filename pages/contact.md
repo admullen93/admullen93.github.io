@@ -1,8 +1,6 @@
 ---
 title: "Contact Us"
 permalink: pages/contact
-redirect_from:
-  - /help/
 ---
 
 There are a ton of helpful tips here!
