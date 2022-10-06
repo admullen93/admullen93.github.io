@@ -1,3 +1,7 @@
+---
+title: "Home"
+---
+
 # VA Slack Enterprise Handbook
 
 Welcome to the VA Slack Enterprise Handbook.  
