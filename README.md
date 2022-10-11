@@ -1,6 +1,6 @@
 # VA Slack Enterprise Handbook
 
-Welcome to the VA Slack Enterprise Handbook.  
+Welcome to the VA Slack Enterprise Handbook. If you already have an account, you may sign in at: !!!  
 The following resources will help you get started with Slack Enterprise at the VA.
 
 Visit [Getting Started](pages/getting-started) for a guide on setting up your Slack Enterprise account.
