@@ -22,7 +22,7 @@ You may wish to use [these steps](https://slack.com/help/articles/115005506003-U
 # Using Slack
 
 You can join any publicly available channel, or have another member invite you to a private channel they are a member of, 
-via [these instructions](https://slack.com/help/articles/205239967-Join-a-channel)
+via [these instructions](https://slack.com/help/articles/205239967-Join-a-channel).
 
 Assume everything you share/do in Slack will be made public, and attributed back to you.  
 Do not post any sensitive information. 
@@ -30,5 +30,5 @@ Do not post any sensitive information.
 You may mention (or notify) members or entire channels with by following [these instructions](https://slack.com/help/articles/205240127-Use-mentions-in-Slack).  
 In general, the larger a channel is, the more careful you should be about using broadcast notifications, similar to using email groups.
 
-[Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts) and 
-[slash commands](https://slack.com/help/articles/201259356-Slash-commands-in-Slack) can be used to save time on a wide variety of commands.
+If you are interested in learning more about Slack use, including shortcuts and commands, visit the [Slack 101 Page](slack-101).  
+Additionally, the [Resources page](resources) includes internal VA tutorials on Slack.
