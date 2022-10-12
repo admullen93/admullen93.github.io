@@ -3,7 +3,7 @@ title: "Exception Request"
 permalink: pages/exception
 ---
 
-If you do not have a va.gov email address, you may request a 90 day exception for your non-va.gov email.
+If you do not have a va.gov email address, you may request a 90 day exception for your non-va.gov email.  
 Please note that you will need to switch to a va.gov within 90 days, or request an extension.
 
 If you have you have not signed up for a VA Slack Enterprise Grid Handbook account, you may follow the steps in [Getting Started](getting-started) to sign up.
